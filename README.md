@@ -3,6 +3,7 @@
 This is the supporting repo for the Medium Article: https://medium.com/@fercv87/an-alternative-to-pandas-narwhals-with-polars-as-backend-2acc3e5dd872
 
 1. Introduction
+   
 Why is this article worth reading? Because I detail and test a Python library (i.e. Narwhals) that may help you dealing with big datasets while working locally (i.e. with your laptop).
 
 This article aims to answer one simple question: what is the most efficient way to deal with big datasets when you only have your laptop? Of course, there is going to be a point where it is not possible to fit in your laptop´s memory massive datasets (I later explain where I found my laptop´s limit). However, it is valuable to know what alternatives there are to the by-default usage of Pandas.
